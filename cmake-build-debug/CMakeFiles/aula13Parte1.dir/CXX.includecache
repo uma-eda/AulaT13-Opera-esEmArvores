@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/filipequintal/CLionProjects/aula13Parte1/Arvore.cpp
+Arvore.h
+/Users/filipequintal/CLionProjects/aula13Parte1/Arvore.h
+iostream
+-
+
+/Users/filipequintal/CLionProjects/aula13Parte1/Arvore.h
+
+/Users/filipequintal/CLionProjects/aula13Parte1/main.cpp
+iostream
+-
+Arvore.h
+/Users/filipequintal/CLionProjects/aula13Parte1/Arvore.h
+

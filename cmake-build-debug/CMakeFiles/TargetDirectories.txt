@@ -1,0 +1,3 @@
+/Users/filipequintal/CLionProjects/aula13Parte1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/filipequintal/CLionProjects/aula13Parte1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/filipequintal/CLionProjects/aula13Parte1/cmake-build-debug/CMakeFiles/aula13Parte1.dir
