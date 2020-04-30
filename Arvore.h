@@ -21,5 +21,11 @@ int retornaMenorI(node * raiz);
 int contaNos(node * raiz);
 int altura(node * raiz);
 void imprimeArvore(node * raiz, int nivel);
+node * removerF(node * raiz, int num);
+node * removerF( node * raiz, node * no, node * ant);
+
+node * removerC(node * raiz, int num);
+node * removerC(node * raiz, node * no, node * ant);
+
 
 #endif //AULA13PARTE1_ARVORE_H
